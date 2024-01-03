@@ -1,0 +1,7 @@
+employees (id: Int, name: String)
+manages (manager_id: Int, employee_id: Int)
+test (bruh: Int, name: String)
+test2 (title: Int, name: String)
+products (id: Int, name: String)
+testwrites (id: Int, name: String)
+testwrites2 (id: Int, name: String)
