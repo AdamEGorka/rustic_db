@@ -1,6 +1,6 @@
 # rustic_db
 A simple database management system inspired by [MIT Opencourseware](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) implemented in Rust.
-
+Created in collaboration with Jeffrey Yang as a custom CIS 1905 final project. 
 ## Project Description
 - The aim of our project is to create a basic relational database system. The system will be able to store and retrieve data. The user will also be able to perform basic table operations such as table creation and data operations such as insertion, filtering, projection, and joining.
 - The database also allows for concurrent reads and writes through a transaction manager that guarantees atomicity
